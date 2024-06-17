@@ -1,0 +1,6 @@
+@PostExchange_HostAddress = http://localhost:5147
+
+GET {{PostExchange_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
